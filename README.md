@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Gun Violence Incidents in Philadelphia 2015 - 2020
+# Exploratory Data Analysis of Gun Violence Incidents in Philadelphia, PA 2015 - 2021
 
 ### Data Analysis & Visualization Tools
 + Python (Pandas, Numpy, Plotly Express, Folium)
